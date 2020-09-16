@@ -1,0 +1,21 @@
+Em uma era de batalhas sem fim, onde o azul do céu colide com as flechas\ndos mais diversos lados, o medo faz parte da vida de cada ser na terra...
+A mistura de varios seres em um mesmo lugar, a luta incessante pelo poder, só traz como \nprêmio o sangue, a dor, a guerra, a morte, e isso parece estar longe de acabar.
+   Mas em meio a esse caos, existem sim pessoas boas, a \033[32mPrincesa Marjorie\033[33m \ntinha um ideal oposto a guerra, e daria sua vida para o mundo finalmente ter paz.
+Ela recrutou milhares de guerreiros, que com muita bravura, vão conquistar \nas linhas de batalha rivais, libertando os inocentes da fome e da guerra,para assim \nfinalmente existir paz entre todos.\n\n
+Entre esses recrutamentos da princesa, surge um Jovem {hero["Raça"]} chamado \033[32m{hero["Nome"]}\033[33m, \nque partilha dos mesmos princípios da Princesa do reino \033[32mHeaven Hill\033[33m
+e assim que avistou o Jovem honrado, sentiu que aquele era a chave\nprincipal para realizar seu destino, seu legado.\n
+
+
+Chegando na linha inimiga, {hero["Nome"]} conversou com o WarLord Graves:
+ Graves - Bom meu jovem guerreiro, vi que você teve bons resultados nas lutas passadas
+           e por isso vou deixar você liderar o seu pelotão, não me decepcione...
+ {hero["Nome"]} - Agradeço pela oportunidade Graves, não decepcionarei o senhor...
+ Graves - Agora, volte para a guerra soldado.
+""")
+sleep(8)
+print("""
+   Estava escurecendo quando a trombeta inimiga ecoou pelo vento frio da floresta, no
+escuro você deve se atentar aos Espectros, eles são sorrateiros, silenciosos e espertos.
+Começou a vir muitos duendes anões, mas a linha de frente do plantão acabou com todos em 
+um piscar de olhos, e quando veio um suspiro de alivio, um Espectro Assassino surge do 
+topo de uma árvore indo em direção do pelotão...
