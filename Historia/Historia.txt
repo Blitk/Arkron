@@ -20,7 +20,7 @@ Por mais que Heaven Hill tenha um menor número de aliados, contamos com a intel
 
 Princesa Marjorie estava explicando a estrátegia para seus aliados:
 
-	- "Os focos da luta estão no Sul de Heaven Hill, e para chegar lá teremos que passar por grandes batalhas, sendo a primeira delas contra os Orcs tomados pela aura de Arkron, que são bem mais fortes que os Orcs comuns, e vocês conseguem diferenciá-los por uma sombra azulada que envolve o corpo deles."
+	- "Os focos da luta estão no Sul de Paksu, e para chegar lá teremos que passar por grandes batalhas, sendo a primeira delas contra os Orcs tomados pela aura de Arkron, que são bem mais fortes que os Orcs comuns, e vocês conseguem diferenciá-los por uma sombra azulada que envolve o corpo deles."
 	- "Fiquem juntos sempre, pois a tática dos Orcs como o General Graves disse, é sempre separar os inimigos para conquistar."
 	- "E que Pak, Jit, Dax, Waq e Kay abençoe vocês!."
 
@@ -169,3 +169,452 @@ Viko e Zibo atacaram Voko, deixando um de seus braços direitos inutilizavel
 Agora é a hora que entro em ação!
 
 * Luta contra Voko *
+
+Após derrotar Voko, todos se sentaram no chão para descansar e recuperar o folego
+	
+	Luda: "huf... Passou..." 
+
+Graves voltou mancando
+	
+	Graves: "Ainda bem que esse maldito se foi..."
+
+	Graves: "Culpa dele minha perna tá estragada, dá uma ajuda aqui Rako!"
+
+Rako procurou em sua bolsa de poções e deu uma Poção de fraturas para Graves
+
+	Rako: "Em 30 minutos você estará ótimo..."
+
+	Rako: "Preciso fazer mais poções, não podemos prosseguir com poucas."
+
+	Rako: "Vou me teletransportar para a fortaleza de Heaven Hill para pegar mais poções, até logo"
+
+Rako estendeu os braços e largou o cajado, que girou no ar e fez um clarão roxo.
+
+	Graves: "Essas magias do Rako são fascinantes!"
+
+	Luda: "Os Draconianos são incriveis quando o assunto é magia, Kay deu muito de seu poder para suas criações"
+
+	Zibo: "Acho que Kay se esqueceu de mim..."
+
+	Graves: "Relaxa largatão, sua habilidade como guerreiro é muito melhor que qualquer magia"
+
+Zibo olhou surpreso pro graves
+
+	Zibo: "Eee... Você acha mesmo?" Disse animado
+
+	Graves: "A luta contra Voko mostrou isso garoto"
+
+	Elos: "Você foi corajoso, e lutou bravamente contra ele"
+
+	Luda: "Pak e Jit com toda certeza abençoaram você"
+
+	Graves: "Hey magricela, preciso dizer que você lutou bem"
+
+	Viko: "Que nada, Zibo que fez tudo"
+
+	Graves: "Quando foi que eu elogiei um elfo?! Então acredite seu saco de batatas!"
+
+	Graves: "Eu não reconheci você na luta, você estava totalmente diferente"
+
+	Elos: "Vai ver Pak e Jit estão torcendo por você também jovem elfo"
+
+	Viko: "o... Obrigado gente..." Disse com uma felicidade indescritível
+
+	Luda: "Que eles continuem torcendo por nós... Esse foi só o ínicio da jornada"
+
+Um portal roxo surgiu próximo deles e todos ficaram assustados, de dentro dele surge Rako
+
+	Rako: "Olá rapazes..."
+
+Rako voltou vestido com uma longa túnica roxa cheia de runas Kayronianas
+
+	Rako: "Tempos extremos exigem medidas extremas, não é mesmo?"
+
+	Rako: "Aproveitei e dei uma passada em Kayros..."
+
+	Rako: "Essa túnica é nada menos que uma relíquia de Kay, não preciso nem dizer que ela é extremamente poderosa"
+
+Todos ficaram surpresos
+
+	Graves: "Hahahahaha é por isso que eu amo esse lagarto"
+
+Roko Riu
+	
+	Graves: "Agora estamos protegidos contra a magia de Arkron!"
+
+	Roko: "Bom... Ela é poderosa mas não em todos os casos"
+
+	Elos: "Ela é poderosa apenas contra seres não divinos"
+
+	Rako: "Exatamente... Contra demônios e divindades ela não é funcional..."
+
+	Luda: "É feita assim para que ninguém ussasse ela contra o próprio criador"
+
+	Graves: "Faz muito sentido pensando assim..."
+
+	Graves: "Mas já ajuda muito, dar um cacete naqueles aliados de Arkron!"
+
+	Elos: "Vocês desejam continuar agora?"
+
+	Luda: "Melhor esperarmos mais um pouco"
+
+Ficamos descandando um pouco, pois a batalha foi muito exaustiva
+
+Eu, Viko e Zibo ficamos sentados na beira do lago conversando
+
+	Viko: "Eu nunca pensei que Graves me elogiaria"
+
+	Zibo: "Digo o mesmo, eu sempre achei ele um pé no saco"
+
+	Viko: "Eu sei lá, foi algo diferente naquela batalha..."
+
+	Viko: "Eu nunca me senti tão seguro e confortável"
+
+	Zibo: "Você lutou bem Viko, parabéns"
+
+	Zibo: "Hey, esqueci de perguntar uma coisa..."
+
+	Viko: "Pode falar"
+
+	Zibo: "Você usou alguma magia durante a batalha?"
+
+	Viko: "Não... Eu nem sei usar magia, porque?"
+
+	Zibo: "Você ficou com os olhos azuis"
+
+	Viko: "Como assim?!" Disse assombrado
+
+	Zibo: "Seus olhos ficaram completamente azuis"
+
+	Viko: "Você viu isso {hero["Nome"]} ?"
+
+Repondi que pensei que ele estava usando algum tipo de magia
+
+	Viko: "Juro pra vocês que não usei nenhuma magia"
+
+	zibo: "Que estranho cara, fale com o Rako depois para saber o que foi isso"
+
+Do nada uma voz ressoou entre eles:
+
+	Ako: "É melhor você estudar sobre isso meu querido elfo"
+
+Ficamos procurando, e novamente era o Gorji, só que em forma de água
+Formou um rosto amigável na água
+
+	Ako: "Talvez você seja abençoado por Kay, meu amigo"
+
+	Ako: "E caso isso for verdade, você tem grande poder mágico escondido"
+
+	Viko: "Mas eu sou um Elfo... Elfos não conseguem dominar magia"
+
+	Ako: "Bom, seu melhor amigo é um Draconiano guerreiro"
+
+	Zibo: "Faz muito sentido Viko"
+
+	Ako: "Só busque informações sobre isso meu querido"
+
+	Ako: "Rako pode ser de grande ajuda nessa sua jornada"
+
+	Ako: "E você Zibo, continue treinando, você será lembrado por gerações"
+
+	Zibo: "Como assim?!"
+
+	Ako: "Apenas continue sendo você meu querido"
+
+	Ako: "Ah, quase me esqueci..."
+
+	Ako: "Você {hero["Nome"]}... Você será um grande herói"
+
+	Ako: "Hihihi, hora de partir... Até logo..."
+
+E a criatura sumiu, deixando para trás diversas questões em aberto.
+	
+	Zibo: "Bom... Se ele disse ta falado"
+
+	Viko: "Preciso muito falar com o Rako..."
+
+E Viko saiu correndo para falar com Rako.
+Ele chegou lá ofegante e Rako ficou surpreso toda pressa de Viko
+
+	Rako: "Hum? Por quê toda essa pressa?"
+
+	Viko: "Eu... Talvez eu seja um mago..."
+
+	Rako: "E o que te faz pensar isso?"
+
+	Zibo: "Os olhos dele ficaram completamente azuis na batalha"
+
+	Zibo: "Além dele ter ficado muito forte e sem medo"
+
+	Rako: "Hum..."
+
+	Rako: "Preciso conversar com Elos..."
+
+Rako se levantou assustado e foi se encontrar com Elos
+
+	Rako: "Elos... Acho que Viko é um Kawaq"
+
+	Elos: "Mas como?" Disse surpreso
+
+	Rako: "Não faço a mínima idéia"
+
+	Elos: "Talvez ele tenha um gene perdido de Kayros"
+
+	Rako: "Mas como?!"
+
+	Elos: "Talvez algum de seus antepassados tenha cruzado as dimensões..."
+
+	Rako: "Mas isso é era impossível antes de Arkron tomar o poder!"
+
+	Elos: "Essa é a maior incognita aqui"
+
+	Elos: "Mas já existiram Kawaqs antes, que o poder aparecia de forma espoôntanea"
+
+	Rako: "Só que era algo conquistado com uma vida inteira de estudo..."
+
+	Elos: "Bom, independente de motivo... Você deve treinar o garoto"
+
+	Rako: "Exato... Com um Kawaq conosco tudo ficará mais acessivel"
+
+Rako voltou para Viko
+
+	Rako: "Você é um Kawaq"
+
+	Viko: "E o que isso significa?"
+
+	Rako: "Você é um ser raro, basicamente..."
+
+	Rako: "Um Elfo que possui grande poder mágico"
+
+	Rako: "É como se você fosse um Elfo filho de Kay..."
+
+	Viko: "Mas como? Eu sou filho de elfos comuns!"
+
+	Rako: "É uma pergunta sem repostas por enquanto"
+
+	Rako: "Mas enfim garoto, vou treinar você"
+
+	Rako: "Com um Kawaq e um Mestre de Kayros, certamente venceremos essa guerra..."
+
+Rako disse para todos para fazerem um dia inteiro de acampamento, pois ia treinar Viko.
+
+Após o término desse acampamento, continuamos nossa jornada
+
+Rako se teletransportou para Heaven Hill para saber como seria o próximo passo
+
+	Princesa: "Parábens, vocês conseguiram ganhar a primeira batalha"
+
+	Princesa: "Os Elfos corrompídos estão juntos com Luno"
+
+	Princesa: "Eles estão escondidos nas Colinas do Triunfo, lá é de fácil acesso"
+
+	Princesa: "A única dica que preciso dar, é ter cuidado com as flechas dos Elfos"
+
+	Princesa: "E se possível, não mate Luno..."
+
+Rako retornou para perto de todos
+
+	Rako: "Vamos..."
+
+Três dias se passaram, e chegamos na colina do triunfo, lá era muito diferente do Cerco dos Dark Orcs, era tudo muito verde e lindo
+
+	Graves: "Chegamos? Mas cade toda a carnificina?"
+
+	Rako: "Vamos lutar contra um Elfo, Elfos são discretos"
+
+	Luda: "Só prestem atenção nas árvores"
+
+Luda estava com uma expressão de tristeza
+
+Graves parou e ficou procurando algo
+
+	Graves: "Vocês estão ouvindo esse barulho?"
+
+Rako ficou procurando, e rapidamente empunhou o cajado
+	
+	Rako: "Protejam-se!"
+
+	Graves: "São os malditos Dark Elfs!"
+
+E flechas negras voaram sobre todos
+Rako, Luda, Zibo e Elos foram feridos por elas
+
+	Rako: "Não consigo me mexer!"
+
+	Graves: "Arr! Covardes!"
+
+	Luda: "Fiquem juntos!"
+
+	Zibo: "Viko! Usa o que você aprendeu!"
+
+Viko ficou furioso e seu corpo foi coberto por uma aura azul
+	
+	Viko: "Vocês vão pagar seus malditos!"
+
+Viko lançava feitiços poderosos contra os inimigos
+	
+	Rako: "Viko! Diga as palavras que te ensinei!"
+
+Viko disse palavras da língua antiga de Kayros e metade dos Dark Elfs cairam no chão petrificados
+
+A aura azul que cobria Viko se dissipou e ele caiu no chão
+
+	Zibo: "Viko!"
+
+	Rako: "A magia dele se esgotou..."
+
+	Rako: "{hero["Nome"]}... Sua vez de atacar!"
+
+* Batalha contra o Dark Elf *
+
+Após a batalha, fomos retirar as flechas de nossos aliados
+
+	Rako: "Muito bem {hero["Nome"]}, você lutou bravamente"
+
+	Luda: "Você é um excelente aliado!"
+
+	Elos: "Muito bom, garoto..."
+
+	Graves: "Meus parabéns..."
+
+Viko acordou e nos ajudou a retirar as flechas
+	
+	Luda: "Nunca pensei que veria elfos aliados ao mal..."
+
+	Rakos: "Pois é..."
+
+Assim que todos levantaram, uma flecha de fumaça é lançada no chão
+
+	Graves: "De novo não!"
+
+Todos ficaram sem visão com toda aquela fumaça
+
+Surge uma voz grossa no meio da fumaça
+
+	Luno: "Acharam que acabou?"
+
+Luno estava segurando um punhal no pescoço de Luda
+	
+	Luno: "Vocês acham mesmo que vão vencer Arkron?!"
+
+	Luno: "Aceitem as trevas em quanto é tempo"
+
+	Rako: "Luno, se afeste dela! Você está enfeitiçado por Arkron!"
+
+	Luda: "Não matem ele!"
+
+	Luno: "Seu tolo, Luno se foi!"
+
+	Luno: "Vocês acabaram com muitos de meus aliados, hora de vocês sentirem dor!"
+
+Luno apunhala Luda no peito e dá começa a gargalhar
+
+	Luno: "Hahahaha, isso é só o começo da era de Arkron!"
+
+Todos ficam sem reação com a cena, todos tentam atacar Luno mas estão fracos demais
+	
+	Graves: "Não!"
+
+	Rako: "Arr! As flechas... drenaram minha energia!"
+
+	Elos: "Estamos... todos muito... fracos para lutar!"
+
+Viko tenta usar o poder de Kawaq mas também está esgotado
+
+A frase que Ako disse ressoava na minha cabeça:
+
+	Ako: "Você será um grande herói"
+
+Comecei a caminhar em direção de Luno, e Rako olhou para mim
+Rako fechou os olhos e começou a falar baixo em Kayroniano, e em seguida desmaiou
+
+Uma aura verde cobriu meu corpo e me senti forte como nunca!
+
+* Batalha contra Luno *
+
+Luno cai no chão e imediatamente a aura negra que cobria seu corpo se dissipa, ele estava muito fraco
+
+Ele se levanta e vê Luda no chão coberta de sangue
+
+	Luno: "Não... Não!"
+
+	Luno: "O que foi que eu fiz!"
+
+Ele se agacha e segura a mão de Luda, que está muito fraca
+
+	Luno: "Não, não, não!"
+
+	Luno: "Filha, me desculpe!"
+
+	Luno: "Arkron tinha se enraizado na minha mente, ele me fez fazer coisas terríveis..."
+
+	Luda: "P... Pai..."
+
+	Luno: "Fala comigo filha por favor!"
+
+	Luda: "É bom... Poder te ver novamente"
+
+	Luda: "Acho... Que Waq... me buscará... agora pai..."
+
+	Luda: "Ajude... Eles a... acabar com... a guerra..."
+
+	Luda: "Me desculpe... pai..."
+
+Luda fecha os olhos...
+	
+	Luno: "Não!"
+
+	Luno: "Resista filha!"
+
+	Luno: "Seja forte!"
+
+Luno começa a chorar abraçando sua filha, que não está mais entre nós
+
+Todos caiem de joelho e ficam de cabeça baixa
+
+	Graves: "Que... Que Waq cuide de você Luda..."
+
+	Elos: "Arkron vai se arrepender disso..."
+
+Rako acorda confuso
+	
+	Rako: "Luda! Onde está a Luda?!"
+
+	Graves: "Ela... Não está mais entre nós..."
+
+	Rako: "Não!"
+
+Rako fica muito agitado
+
+	Rako: "Eu falhei! Eu jurei proteger todos vocês!"
+
+	Rako: "Isso foi culpa minha!"
+
+	Rako: "Você!" Disse olhando pra Luno
+
+	Rako: "Você matou ela seu maldito!"
+
+	Luno: "Não... Não foi culpa minha!" Disse chorando
+
+	Elos: "Rako... Não culpe ele"
+
+	Elos: "Foi Arkron que fez isso com a Luda"
+
+	Elos: "Acredite, Luno está quebrado por dentro..."
+
+Rako sentou e colocou as mão na cabeça
+
+	Rako: "Se eu não tivesse sido atingido por aquela flecha!"
+
+	Rako: "Luda estaria viva!"
+
+	Graves: "Para Rako!"
+
+	Graves: "Você não teve culpa nenhuma!"
+
+	Rako: "Eu vou acabar com a raça daquele maldito"
+
+	Graves: "Sim... Você vai... Mas primeiro descanse"
+
+	Graves: "Não foi um dia fácil..."
+

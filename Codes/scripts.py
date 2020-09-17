@@ -243,7 +243,7 @@ def abertura():
 def delay(texto):
     list(texto)
     for c in texto:
-        if c == ".":
+        if c == "." or c == "?" or c == "!":
             sleep(1) 
         print(f'{c}', end="", flush=True)
         sleep(0.02)
