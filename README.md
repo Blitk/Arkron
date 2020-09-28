@@ -10,7 +10,7 @@
     <li><i>Labirinto</i></li>
     <li><i>Annastria</i></li>
     <li><i>Dungeon and Dragons</i></li>
-    <li></li>
+    <br>
   </ul>
   <li>Feito totalmente em <b>Python</b>;</li>
   <li>Para jogar, é preciso ter o modulo <b>Pyautogui</b> baixado</li>
