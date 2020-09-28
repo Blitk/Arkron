@@ -7,7 +7,7 @@
   <li>Para jogar, é preciso ter o modulo <b>Pyautogui</b> baixado</li>
 </ul>
 <br>
-<p>Para ver a primeira versão do jogo,<a href="https://github.com/Blitk/Game-A-batalha-de-Heaven-Hill" target="_blanck>Clique aqui</a></p>
+<p>Para ver a primeira versão do jogo,<a href="https://github.com/Blitk/Game-A-batalha-de-Heaven-Hill" target="_blanck">Clique aqui</a></p>
 <p>Para ver a versão atual do jogo <a href="https://github.com/Blitk/Arkron/tree/master/Codes" target="_blanck">clique aqui</a></P>
 <p>Para ver os vídeos do funcionamento do jogo <a href="https://www.youtube.com/channel/UC4e0-LG4LkB_eQ9GgOPM2tA" target="_blanck">clique aqui</a></p>
 
