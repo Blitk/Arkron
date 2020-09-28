@@ -1,4 +1,4 @@
-<h1 style="font-align: center;">Arkron</h1>
+<h1 style="text-align: center;">Arkron</h1>
 <br>
 <ul>
   <li>Um Jogo de RPG simples, com temática medieval e de fantasia;</li>
