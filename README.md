@@ -1,6 +1,5 @@
-<h1>Arkron</h1>
+<h1 style="font-allign: center;">Arkron</h1>
 <br>
-<img src="https://i.ytimg.com/vi/xqMrL-yGJ1U/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBQVWlOSTErZPR5LPGWGFOpmCsVIw">
 <ul>
   <li>Um Jogo de RPG simples, com temática medieval e de fantasia;</li>
   <li>A história é totalmente autoral, mas inspirada em gigantes da cultura pop, como <i>Senhor dos anéis, Skyrim, O Hobbit, Labirinto, Annastria, Dungeon and Dragons</i> e etc.;</li>
