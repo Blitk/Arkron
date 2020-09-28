@@ -2,7 +2,15 @@
 <br>
 <ul>
   <li>Um Jogo de RPG simples, com temática medieval e de fantasia;</li>
-  <li>A história é totalmente autoral, mas inspirada em gigantes da cultura pop, como:<br> <i>Senhor dos anéis<br> Skyrim<br> O Hobbit<br> Labirinto<br> Annastria<br> Dungeon and Dragons</i><br> etc.;</li>
+  <li>A história é totalmente autoral, mas inspirada em gigantes da cultura pop, como:</p>
+  <ul>
+    <li><i>Senhor dos anéis</i></li> 
+    <li><i>Skyrim</i></li> 
+    <li><i>O Hobbit</i></li> 
+    <li><i>Labirinto</i></li>
+    <li><i>Annastria</i></li>
+    <li><i>Dungeon and Dragons</i></li>
+  </ul>
   <li>Feito totalmente em <b>Python</b>;</li>
   <li>Para jogar, é preciso ter o modulo <b>Pyautogui</b> baixado</li>
 </ul>
