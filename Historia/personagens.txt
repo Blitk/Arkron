@@ -38,26 +38,26 @@ Voko: Orc de quatro braços
 
 Dargon: Draconiano mestre de magia oculta
 
-Luno: Pai de Luda, um Elfo corrompído
+Luno: Pai de Luda, um Elfo corrompído pela maldição de Arkron
 
 
 								Gorgi
 
 Uma criatura que é composta por todos elementais, e cada elemento possui uma personalidade 
 
-py: Fogo, uma personalidade mais raivosa
+	py: Fogo, uma personalidade mais raivosa
 
-Ako: Água, uma personalidade mais calma
+	Ako: Água, uma personalidade mais calma
 
-Eji: Terra, uma personalidade mais engraçada
+	Eji: Terra, uma personalidade mais engraçada
 
-Suo: Vento, uma perosnalidade misteriosa, que conversa por metáforas
+	Suo: Vento, uma perosnalidade misteriosa, que conversa por metáforas
 
 
 
 								AMIGOS
 
-Viko: Um elfo jovem e medroso
+Viko: Um elfo medroso
 
 Zibo: Um draconiano corajoso que prefere espadas do que magia
 
