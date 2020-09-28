@@ -11,5 +11,4 @@
 <p>Para ver a versão atual do jogo, <a href="https://github.com/Blitk/Arkron/tree/master/Codes" target="_blanck">clique aqui</a></P>
 <p>Para ver os vídeos do funcionamento do jogo, <a href="https://www.youtube.com/channel/UC4e0-LG4LkB_eQ9GgOPM2tA" target="_blanck">clique aqui</a></p>
 <br>
-<h3>Parte 1</h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A0J0Ea-Ftmw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
