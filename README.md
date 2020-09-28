@@ -9,3 +9,5 @@
       <br>
       <p>Um Jogo de RPG simples, com temática medieval e de fantasia.</p>
                    <p>A história é totalmente autoral, mas inspirada em gigantes da cultura pop, como <i>Senhor dos anéis, Skyrim, O Hobbit, Labirinto, Annastria, Dungeon and Dragons</i> e etc.</p>
+                   </body>
+                   </html>
