@@ -19,5 +19,6 @@
 <p>Para ver a versão descartada do jogo, <a href="https://github.com/Blitk/Game-A-batalha-de-Heaven-Hill" target="_blanck">Clique aqui</a></p>
 <p>Para ver a versão atual do jogo, <a href="https://github.com/Blitk/Arkron/tree/master/Codes" target="_blanck">clique aqui</a></P>
 <p>Para ver os vídeos do funcionamento do jogo, <a href="https://www.youtube.com/channel/UC4e0-LG4LkB_eQ9GgOPM2tA" target="_blanck">clique aqui</a></p>
+<p>Para ir para o site do jogo, <a href="cyberbluetechnology.github.io" target="_blanck">clique aqui</a></p>
 <br>
 
