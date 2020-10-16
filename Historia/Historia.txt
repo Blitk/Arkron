@@ -1316,6 +1316,246 @@ Rako todo machucado aparece com o cajado apontando para Dargon
 
 * Batalha Dargon *
 
+Assim que Dargon é derrotado, Rako cai de joelhos e deixa o cajado cair
+
+	Graves: "Rako!"
+
+	Rako: "Eu... Só preciso... De um tempo..." Disse suspirando
+
+	Luno: "Ele está exausto, muita coisa aconteceu em pouco tempo"
+
+	Rako: "Me desculpe por ter te atacado{hero.Nome}..."
+
+	Rako: "Mas vi que você é um excelente {hero.Classe}" 
+
+Disse para Rako que ele não teve culpa, e agradeci o elogio
+
+	Rako: "Elos..."
+
+	Rako: "Vou ficar em Heaven Hill por um tempo"
+
+	Rako: "Minhas poções não terão efeito em mim agora"
+
+	Rako: "Preciso que você lidere a jornada"
+
+	Elos: "Ok..."
+
+	Graves: "Mas como vamos nos virar sem você?"
+
+	Rako: "Graves... Você tem excelentes aliados"
+
+	Graves: "Mas continuar sem o maior mago de todos vai ser difícil"
+
+	Rako: "Em breve estou de volta..."
+
+	Rako: "Luno..."
+
+	Rako: "O plano Ecryptos... começa agora"
+
+	Luno: "Entendido..."
+
+	Luno: "Vai acabar tudo bem Rako"
+
+	Rako: "Agora, preciso ir"
+
+	Rako: "Elos, me ajude a abrir o portal..."
+
+	Rako: "Estou sem mana"
+
+	Elos: "Claro"
+
+Elos desenhou um círculo no chão repleto de runas de Daxy
+
+	Rako: "Obrigado... Meu amigo"
+
+Rako acenou com a cabeça, e bateu o cajado no centro do círculo
+O círculo se toronou em uma parede de chamas azuis, Rako entrou dentro dela e rapidamente as chamas sumiram
+
+	Graves: "Que Jit, Waq, Dax, Pak e Kay nos abençoe"
+
+	Graves: "Vai ser osso daqui pra frente..."
+
+	Zibo: "A gente tem um Kawaq no time Graves, relaxa"
+
+	Graves: "Você ta comparando o elfo magricela com o Rako?"
+
+	Zibo: "Não comparando... Mas o Viko é poderosíssimo!"
+
+	Graves: "Que seja!"
+
+	Graves: "Agora vamos logo, não quero decepcionar o Rako"
+
+Eles continuaram andando, pois não queriam passar nem mais um minuto na fortaleza de Dargon
+
+Eles andaram por horas, até que Graves disse
+
+	Graves: "Ai!"
+
+	Graves: "Não aguento mais andar!"
+
+	Graves: "Vamos acampar pelo menos por duas horas pelo amor de Waq!"
+
+	Elos: "Todos de acordo?"
+
+Todos disseram que sim, Graves encarou Elos
+
+	Graves: "É preciso uma votação pra descansar?!"
+
+	Graves: "Não porque você não dorme que os outros não precisam dormir também!"
+
+	Elos: "Sou uma pessoa democrática..."
+
+	Graves: "Vamos dormir logo caramba"
+
+Montamos redes amarradas nas árvores para dormir, eu estava exausto, deitei na rede e cochilei por um tempo
+
+Eu acordei sentindo um calor no rosto, e quando abri os olhos havia uma labarede na minha frente, me assustei e levantei imediatamente
+
+	Py: "Você ronca muito, hahahaha"
+
+	Py: "Por que essa cara de susto?"
+
+	Py: "Nunca viu um Gorji não?"
+
+As labaredas tinham um rosto, um rosto com um nariz grande e pontudo
+
+	Py: "Me chamo Py, provalmente você já tenha conhecido meus irmãos..."
+
+	Py: "Mas fala ai, eu sou o mais legal né?"
+
+	Py: "Pode falar, não vou contar pra ninguém não"
+
+Fiquei sem entender o que estava acontecendo e continuei em silêncio
+
+	Py: "Tudo bem... Não precisa responder"
+
+	Py: "Ei!"
+
+	Py: "Fiquei sabendo que você derrotou os quatro aliados de Arkron!"
+
+	Py: "Sou teu fã..."
+
+	Py: "Mas enfim..."
+
+	Py: "Como você está cansado, vou direto ao ponto meu camarada"
+
+	Py: "Aqui, nessa floresta..."
+
+E a criatura ficou pensativa, e perguntei o que tinha na floresta
+
+	Py: "Como vou falar sem estragar a surpresa?"
+
+	Py: "Ah..."
+
+	Py: "Uma parte do destino será cumprida"
+
+	Py: "É só o que posso dizer meu amigo..."
+
+Pedi para falar mais sobre esse destino
+	
+	Py: "Não... Não..."
+
+	Py: "Você vai saber quando for a hora certa"
+
+	Py: "Eita!"
+
+	Py: "Hora de ir meu camarada"
+
+	Py: "Foi um prazer te conhecer"
+
+	Py: "Ah... E não se assuste caso alguma coisa pegue fogo do nada"
+
+	Py: "É que as vezes gosto de observar as coisas de pertinho"
+
+	Py: "Até mais..."
+
+E desapareceu no ar...
+
+Fiquei pensando no que seria esse destino, mas acabei caindo no sono novamente
+
+Eu senti uma luz forte nos olhos, e quando abri vi Luda olhando para mim
+
+	Luda: "Olá {hero.Nome}"
+
+Era um lugar totalmente branco, onde não havia cenário algum
+
+	Luda: "Sinto muita falta de vocês"
+
+	Luda: "Mas fico feliz em saber que estão conseguindo vencer Arkron"
+
+Perguntei como ela estava
+
+	Luda: "Ah, aqui é muito calmo"
+
+	Luda: "É um lugar de paz, de encontro com os que já foram"
+
+	Luda: "Ah, não temos muito tempo..."
+
+	Luda: "Serei breve..."
+
+	Luda: "O que o Gorji disse para você é verdade"
+
+	Luda: "Na floresta você irá encontrar a chave da derrota de Arkron"
+
+	Luda: "E não se preocupe, Rako voltará logo"
+
+	Luda: "Deste lado eu estou ajudando ele a se sentir melhor"
+
+	Luda: "E sim, eu protejo todos vocês"
+
+	Luda: "Eu sinto que minha partida teve um propósito maior"
+
+	Luda: "E sou grata por estar ajudando vocês"
+
+	Luda: "Agora é a hora de você voltar..."
+
+	Luda: "Foi um prazer revê-lo {hero.Nome}"
+
+	Luda: "E lembre-se, aquela floresta guarda a chave do destino de todos"
+
+	Luda: "Adeus {hero.Nome}"
+
+Tudo ficou preto, e quando abri os olhos vi Graves vindo em minha direção
+
+	Graves: "Que ótimo que acordou princesa!"
+
+	Graves: "Todo mundo tá esperando você!"
+
+Todos estavam prontos para continuar a jornada
+
+Andamos por duas horas até que vimos uma cabana enorme na floresta
+
+	Graves: "Quem é o louco que mora aqui no meio do nada?"
+
+	Elos: "Estou sentindo uma energia muito forte aqui"
+
+Lembrei do que Luda e Py disseram
+
+	Graves: "Isso não tá cheirando bem..."
+
+	Elos: "Mas eu não sinto energia ruim..."
+
+	Luno: "Talvez seja só um conjunto de Gorjis"
+
+	Elos: "Não, Gorjis não são tão poderosos assim"
+
+De repente um som de passos surge na floresta e todos se viram para ver o que é
+
+Era Uma Orc de cabelo castanhos cacheados, com uma coroa de flores na cabeça, um colar de cristal azul, vestida em um vestido verde claro, ela estava com muitos animais ao seu lado
+
+Ambos os lados ficaram surpresos
+
+	Fridz: "Hum... Olá?"
+
+
+									FIM DA PARTE UM
+
+
+
+
+
+
+
 
 
 

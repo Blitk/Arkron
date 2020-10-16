@@ -26,6 +26,8 @@ Rako: Draconiano que comanda ataques mágicos, elaborador de poções
 
 Elos: Espectro comandante de ataques sorrateiros
 
+Fridz: Uma Orc com ótimas habilidades mágicas
+
 
 								
 								ALIADOS DE ARKRON
@@ -36,9 +38,20 @@ Siko e Brako: Espectros gêmeos, que usam as lâminas de Arkron      (mortos)
 
 Voko: Orc de quatro braços     (morto)
 
-Dargon: Draconiano mestre de magia oculta
+Dargon: Draconiano mestre de magia oculta  (morto)
 
 Luno: Pai de Luda, um Elfo corrompído pela maldição de Arkron      (recuperado)
+
+								
+
+								DISCÍPULOS DE ARKRON
+
+Hiro: Um humano, ex membro de Heaven Hill treinado por Siko e Brako
+
+Burzua: Uma Orc treinada por Voko e Dargon, muita força física e habilidades em necromância
+
+KRito: Um espectro com capacidade de metamorfose, treinado por luno e Dargon
+
 
 
 								Gorgi
