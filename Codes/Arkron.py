@@ -1,5 +1,6 @@
 from scripts import *	
 from time import sleep	
+from os import system
 
 						#Personagem
 Poções = {"Vida":20, "Magia":20, "Stamina":20}
@@ -153,7 +154,7 @@ print('\n\n✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠✠
 sleep(5)
 
 
-"""
+
 #história
 print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
 exp1 = "    A Terra sempre foi um lugar de poucas guerras, mas desde a descoberta das fissuras entre os mundos, tudo se resume em caos. Criaturas, Deuses e Demônios, todos contra os humanos, mas em meio a essa guerra de mundos, houve a união de diferentes, os elfos, orcs, draconianos e os espectros, que lutam por um bem maior, a paz entre as diferentes realidades, mas claro que existem os que preferem o caos e a guerra.\n\n"
@@ -219,13 +220,13 @@ delay(his12)
 sleep(4)
 batalha(hero, Poções, "Luno", 30, 100, "Arco de Arkron")
 sleep(4)
-"""
+
 if hero.Classe == "Arqueiro":
     hero.Arma = "Arco de Arkron"
     hero.Dano = 50
     hero.Arkron = True
 print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
-"""
+
 his13 = "Luno cai no chão e imediatamente a aura negra que cobria seu corpo se dissipa, ele estava muito fraco\n\nEle se levanta e vê Luda no chão coberta de sangue\n\n    Luno: \"Não... Não!\"    Luno: \"O que foi que eu fiz!\"\n\nEle se agacha e segura a mão de Luda, que está muito fraca\n\n    Luno: \"Não, não, não!\"\n\n    Luno: \"Filha, me desculpe!\"\n\n    Luno: \"Arkron tinha se enraizado na minha mente, ele me fez fazer coisas terríveis...\"\n\n    Luda: \"P... Pai...\"\n\n    Luno: \"Fala comigo filha por favor!\"\n\n    Luda: \"É bom... Poder te ver novamente\"\n\n    Luda: \"Acho... Que Waq... me buscará... agora pai...\"\n\n    Luda: \"Ajude... Eles a... acabar com... a guerra...\"\n\n    Luda: \"Me desculpe... pai...\"\n\nLuda fecha os olhos...\n\n    Luno: \"Não!\"\n\n    Luno: \"Resista filha!\"\n\n    Luno: \"Seja forte!\"\n\nLuno começa a chorar abraçando sua filha, que não está mais entre nós\n\nTodos caiem de joelho e ficam de cabeça baixa\n\n    Graves: \"Que... Que Waq cuide de você Luda...\"\n\n    Elos: \"Arkron vai se arrepender disso...\"\n\nRako acorda confuso\n\n    Rako: \"Luda! Onde está a Luda?!\"\n\n    Graves: \"Ela... Não está mais entre nós...\"\n\n    Rako: \"Não!\"\n\nRako fica muito agitado\n\n    Rako: \"Eu falhei! Eu jurei proteger todos vocês!\"\n\n    Rako: \"Isso foi culpa minha!\"\n\n    Rako: \"Você!\" Disse olhando pra Luno\n\n    Rako: \"Você matou ela seu maldito!\"\n\n    Luno: \"Não... Não foi culpa minha!\" Disse chorando\n\n    Elos: \"Rako... Não culpe ele\"\n\n    Elos: \"Foi Arkron que fez isso com a Luda\"\n\n    Elos: \"Acredite, Luno está quebrado por dentro...\"\n\nRako sentou e colocou as mão na cabeça\n\n    Rako: \"Se eu não tivesse sido atingido por aquela flecha!\"\n\n    Rako: \"Luda estaria viva!\"\n\n    Graves: \"Para Rako!\"\n\n    Graves: \"Você não teve culpa nenhuma!\"\n\n    Rako: \"Eu vou acabar com a raça daquele maldito\"\n\n    Graves: \"Sim... Você vai... Mas primeiro descanse\"\n\n    Graves: \"Não foi um dia fácil...\"\n\n"
 delay(his13)
 sleep(4)
@@ -251,7 +252,7 @@ if hero.Classe == "Assassino":
     hero.Dano = 50
     hero.Arkron = True
 print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
-"""
+
 his17 = "Após derrotar Brako e Siko, Rako foi ver os feridos\n\n    Rako: \"Graves e Viko, vocês estão bem?\"\n\n    Graves: \"Já tive dias melhores...\"\n\n    Viko: \"Estou sim Rako...\"\n\n    Graves: \"Consegue arrumar mais uma poção daquela pra mim?\"\n\n    Rako: \"Não pode tomar mais de uma no mesmo dia\"\n\n    Rako: \"Mas vou dar uma para dor\"\n\nRako pega dois fracos pequenos em seu bolso\n\n    Graves: \"Esse frasquinho não vai ajudar em nada!\"\n\n    Rako: \"Apenas tome, vai ver o efeito em poucos segundos\"\n\nGraves e Viko tomam a poção e arregalam os olhos\n\n    Graves: \"Hahaha, você é um Deus Rako!\"\n\n    Viko: \"Me sinto melhor do que antes da batalha hahaha\"\n\n    Rako: \"Não sou um Deus, sou apenas o melhor de Kayros\"\n\nE Rako lança um pequeno sorriso\n\n    Rako: \"Vamos logo\"\n\n    Rako: \"Ah... quase me esqueci\"\n\n    Rako: \"A próxima batalha não será fácil...\"\n\n    Luno: \"Por qual motivo Rako?\"\n\n    Graves: \"Pior do que esses dois Espectros?\"\n\n    Graves: \"Ai estamos ferrados\"\n\n    Rako: \"Bom...\"\n\n    Rako: \"O próximo aliado de Arkron será Dargon...\"\n\n    Rako: \"Meu antigo mestre...\"\n\n    Rako: \"que se rebelou contra o seu povo...\"\n\n    Rako: \"Eu serei inútil contra ele\"\n\n    Graves: \"Mas você é melhor Mago de Kayros!\"\n\n    Luno: \"Dargon sabe todos os ataques dele\"\n\n    Rako: \"Exatamente...\"\n\n    Rako: \"Vocês terão que se virar sem mim\"\n\n    Luno: \"Eu e Elos temos noções magicas Rako\"\n\n    Elos: \"Sim, nossos ataques mágicos são diferentes dos Draconianos\"\n\n    Graves: \"Hum...\"\n\n    Graves: \"As vezes a batalha não depende unicamente de magia\"\n\n    Luno: \"É só combinar estratégia, força física e um pouco de magia\"\n\n    Elos: \"Exatamente...\"\n\n    Graves: \"Ah... Me desculpe por antes Elos\"\n\n    Graves: \"O seu passado não tira a sua importância no presente\"\n\n    Elos: \"...Obrigado Graves\"\n\n"
 delay(his17)
 sleep(4)
@@ -271,5 +272,250 @@ his20 = f'Rako caiu no chão, e toda a magia negra de Dargon saiu de seu corpo\n
 delay(his20)
 sleep(4)
 batalha(hero, Poções, "Dargon", 35, 100, "Cajado de Arkron")
+if hero.Classe == "Mago":
+    hero.Arma = "Cajado de Arkron"
+    hero.Dano = 50
+    hero.Arkron = True
 sleep(4)
 print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
+his21 = f"""Assim que Dargon é derrotado, Rako cai de joelhos e deixa o cajado cair
+
+    Graves: "Rako!"
+
+    Rako: "Eu... Só preciso... De um tempo..." Disse suspirando
+
+    Luno: "Ele está exausto, muita coisa aconteceu em pouco tempo"
+
+    Rako: "Me desculpe por ter te atacado{hero.Nome}..."
+
+    Rako: "Mas vi que você é um excelente {hero.Classe}" 
+
+Disse para Rako que ele não teve culpa, e agradeci o elogio
+
+    Rako: "Elos..."
+
+    Rako: "Vou ficar em Heaven Hill por um tempo"
+
+    Rako: "Minhas poções não terão efeito em mim agora"
+
+    Rako: "Preciso que você lidere a jornada"
+
+    Elos: "Ok..."
+
+    Graves: "Mas como vamos nos virar sem você?"
+
+    Rako: "Graves... Você tem excelentes aliados"
+
+    Graves: "Mas continuar sem o maior mago de todos vai ser difícil"
+
+    Rako: "Em breve estou de volta..."
+
+    Rako: "Luno..."
+
+    Rako: "O plano Ecryptos... começa agora"
+
+    Luno: "Entendido..."
+
+    Luno: "Vai acabar tudo bem Rako"
+
+    Rako: "Agora, preciso ir"
+
+    Rako: "Elos, me ajude a abrir o portal..."
+
+    Rako: "Estou sem mana"
+
+    Elos: "Claro"
+
+Elos desenhou um círculo no chão repleto de runas de Daxy
+
+    Rako: "Obrigado... Meu amigo"
+
+Rako acenou com a cabeça, e bateu o cajado no centro do círculo
+O círculo se toronou em uma parede de chamas azuis, Rako entrou dentro dela e rapidamente as chamas sumiram
+
+    Graves: "Que Jit, Waq, Dax, Pak e Kay nos abençoe"
+
+    Graves: "Vai ser osso daqui pra frente..."
+
+    Zibo: "A gente tem um Kawaq no time Graves, relaxa"
+
+    Graves: "Você ta comparando o elfo magricela com o Rako?"
+
+    Zibo: "Não comparando... Mas o Viko é poderosíssimo!"
+
+    Graves: "Que seja!"
+
+    Graves: "Agora vamos logo, não quero decepcionar o Rako"
+
+Eles continuaram andando, pois não queriam passar nem mais um minuto na fortaleza de Dargon
+
+Eles andaram por horas, até que Graves disse
+
+    Graves: "Ai!"
+
+    Graves: "Não aguento mais andar!"
+
+    Graves: "Vamos acampar pelo menos por duas horas pelo amor de Waq!"
+
+    Elos: "Todos de acordo?"
+
+Todos disseram que sim, Graves encarou Elos
+
+    Graves: "É preciso uma votação pra descansar?!"
+
+    Graves: "Não porque você não dorme que os outros não precisam dormir também!"
+
+    Elos: "Sou uma pessoa democrática..."
+
+    Graves: "Vamos dormir logo caramba"
+
+Montamos redes amarradas nas árvores para dormir, eu estava exausto, deitei na rede e cochilei por um tempo
+
+Eu acordei sentindo um calor no rosto, e quando abri os olhos havia uma labarede na minha frente, me assustei e levantei imediatamente
+
+    Py: "Você ronca muito, hahahaha"
+
+    Py: "Por que essa cara de susto?"
+
+    Py: "Nunca viu um Gorji não?"
+
+As labaredas tinham um rosto, um rosto com um nariz grande e pontudo
+
+    Py: "Me chamo Py, provalmente você já tenha conhecido meus irmãos..."
+
+    Py: "Mas fala ai, eu sou o mais legal né?"
+
+    Py: "Pode falar, não vou contar pra ninguém não"
+
+Fiquei sem entender o que estava acontecendo e continuei em silêncio
+
+    Py: "Tudo bem... Não precisa responder"
+
+    Py: "Ei!"
+
+    Py: "Fiquei sabendo que você derrotou os quatro aliados de Arkron!"
+
+    Py: "Sou teu fã..."
+
+    Py: "Mas enfim..."
+
+    Py: "Como você está cansado, vou direto ao ponto meu camarada"
+
+    Py: "Aqui, nessa floresta..."
+
+E a criatura ficou pensativa, e perguntei o que tinha na floresta
+
+    Py: "Como vou falar sem estragar a surpresa?"
+
+    Py: "Ah..."
+
+    Py: "Uma parte do destino será cumprida"
+
+    Py: "É só o que posso dizer meu amigo..."
+
+Pedi para falar mais sobre esse destino
+    
+    Py: "Não... Não..."
+
+    Py: "Você vai saber quando for a hora certa"
+
+    Py: "Eita!"
+
+    Py: "Hora de ir meu camarada"
+
+    Py: "Foi um prazer te conhecer"
+
+    Py: "Ah... E não se assuste caso alguma coisa pegue fogo do nada"
+
+    Py: "É que as vezes gosto de observar as coisas de pertinho"
+
+    Py: "Até mais..."
+
+E desapareceu no ar...
+
+Fiquei pensando no que seria esse destino, mas acabei caindo no sono novamente\n\n"""
+delay(his21)
+sleep(4)
+his22 = f"""Eu senti uma luz forte nos olhos, e quando abri vi Luda olhando para mim
+
+    Luda: "Olá {hero.Nome}"
+
+Era um lugar totalmente branco, onde não havia cenário algum
+
+    Luda: "Sinto muita falta de vocês"
+
+    Luda: "Mas fico feliz em saber que estão conseguindo vencer Arkron"
+
+Perguntei como ela estava
+
+    Luda: "Ah, aqui é muito calmo"
+
+    Luda: "É um lugar de paz, de encontro com os que já foram"
+
+    Luda: "Ah, não temos muito tempo..."
+
+    Luda: "Serei breve..."
+
+    Luda: "O que o Gorji disse para você é verdade"
+
+    Luda: "Na floresta você irá encontrar a chave da derrota de Arkron"
+
+    Luda: "E não se preocupe, Rako voltará logo"
+
+    Luda: "Deste lado eu estou ajudando ele a se sentir melhor"
+
+    Luda: "E sim, eu protejo todos vocês"
+
+    Luda: "Eu sinto que minha partida teve um propósito maior"
+
+    Luda: "E sou grata por estar ajudando vocês"
+
+    Luda: "Agora é a hora de você voltar..."
+
+    Luda: "Foi um prazer revê-lo {hero.Nome}"
+
+    Luda: "E lembre-se, aquela floresta guarda a chave do destino de todos"
+
+    Luda: "Adeus {hero.Nome}\n\n"
+"""
+delay(his22)
+sleep(4)
+his23 = """Tudo ficou preto, e quando abri os olhos vi Graves vindo em minha direção
+
+    Graves: "Que ótimo que acordou princesa!"
+
+    Graves: "Todo mundo tá esperando você!"
+
+Todos estavam prontos para continuar a jornada
+
+Andamos por duas horas até que vimos uma cabana enorme na floresta
+
+    Graves: "Quem é o louco que mora aqui no meio do nada?"
+
+    Elos: "Estou sentindo uma energia muito forte aqui"
+
+Lembrei do que Luda e Py disseram
+
+    Graves: "Isso não tá cheirando bem..."
+
+    Elos: "Mas eu não sinto energia ruim..."
+
+    Luno: "Talvez seja só um conjunto de Gorjis"
+
+    Elos: "Não, Gorjis não são tão poderosos assim"
+
+De repente um som de passos surge na floresta e todos se viram para ver o que é
+
+Era Uma Orc de cabelo castanhos cacheados, com uma coroa de flores na cabeça, um colar de cristal azul, vestida em um vestido verde claro, ela estava com muitos animais ao seu lado
+
+Ambos os lados ficaram surpresos
+
+    Fridz: "Hum... Olá?\n\n"""
+delay(his23)
+sleep(7)
+system("clear")
+sleep(5)
+fim_parte1()
+system("clear")
+sleep(4)
+
