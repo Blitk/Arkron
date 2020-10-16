@@ -1,8 +1,9 @@
 from time import sleep
+from pyautogui import press, hotkey
+import sys
 
 
 def iniciar():
-    from pyautogui import press, hotkey
     press("F11")
     for c in range(4):
         hotkey("ctrl", "+")
@@ -10,7 +11,6 @@ def iniciar():
 
 
 def finalizar():
-    from pyautogui import press, hotkey
     press("F11")
     for c in range(4):
         hotkey("ctrl", "-")
@@ -21,8 +21,6 @@ def finalizar():
 def batalha(hero, Poções, inimigo, ataque, vida_inimigo, arma):
     """Batalha(Nome do inimigo, HP por ataque, HP do inimigo, arma do inimigo)"""
     print(f'\n~ {hero.Nome} empunha {hero.Arma} ')
-    import sys
-    from time import sleep
     cont = 1
     sair = False
     while True:
@@ -239,7 +237,6 @@ def batalha(hero, Poções, inimigo, ataque, vida_inimigo, arma):
 
 def logo():
     print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
-    from time import sleep
     logo= "\033[31m      ██████\n     ██       █    █  █████   █████  ██████       █████   ██     ██  ██  █████\n     ██       ██  ██  █    █  ██     ██   █       █    █  ██     ██  ██  ██\n     ██         ██    █████   █████  █████   ███  █████   ██     ██  ██  █████\n\033[34m     ██         ██    █    █  ██     ██  ██       █    █  ██     ██  ██  ██\n      ██████    ██    █████   █████  ██   ██      █████   █████  ██████  █████\n\033[m"
     
     list(logo)
@@ -256,7 +253,6 @@ def logo():
 
 def abertura():
     print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
-    from time import sleep
     logo = "\033[32m              ██\n            ██  ███    ██████     █     ██   ██████      █████     █       █\n          ██      ██   ██    ██   ██   ██    ██    ██   ██    ██   ██     ██\n         ██    █████   ██   ██    ██  ██     ██   ██    ██   ███   ████   ██\n         ██  ██   ██   █████      ████       █████      ██  █ ██   ██ ██  ██\n         ████     ██   ██  ██     ██  ██     ██  ██     ██ █  ██   ██  ██ ██\n         ██       ██   ██   ██    ██   ██    ██   ██    ███   ██   ██    ██\n         ██       ██   █     ██   █     ██   █     ██    █████     █\n                   █  \n\033[m"
     list(logo)
     for c in logo:
@@ -276,3 +272,66 @@ def delay(texto):
             sleep(0.5) 
         print(f'{c}', end="", flush=True)
         sleep(0.03)
+
+
+def fim_parte1():
+    texto = """\033[32m           
+
+             
+                          ██████     █    ██       █     
+                         ██               ███     ██     
+                         ██         ██    ████   ███     
+                         ██████     ██    ██ ██ ██ █     
+                         ██         ██    ██  ███  █     
+                         ██         ██    ██       █     
+                         ██         ██    ██       █     
+                         █          █     █        █     
+
+
+                            █████          ██
+                           ██    ██      ██  ███
+                           ██     ██    ██     ██
+                           ██      ██   ██    ███
+                           ██      ██   ██  ██ ██
+                           ██     ██    ████   ██
+                           ██    ██     ██      █
+                           ██████       █       █
+
+
+
+              ██████        ██        ██████        ██       ███████      
+             ██     ██    ██  ███    ██     ██   ████████  ███     █       
+             ██     ██   ██     ██   ██    ██       ██     ██          
+             ██   ██     ██    ███   ██   ██        ██     ██     █  
+             ██████      ██  ██ ██   ██████         ██     ███████        
+             ██          ████   ██   ██   ██        ██     ██           
+             ██          ██     ██   ██    ██       ██     ███     █ 
+             ██          ██      █   ██     ██      ██      ████████
+             █           █           █               █            
+
+
+
+                         █         █   █           █
+                         ██       ██   ███       ███
+                         ██       ██   ████     ████
+                         ██       ██   ██ ██   ██ ██
+                         ██       ██   ██  ██ ██  ██
+                         ██       ██   ██   ███   ██
+                          ██     ██    ██         ██
+                           ███████     █           █
+
+
+
+
+
+
+                           """
+    list(texto)
+    for c in texto:
+        print(f'{c}', end="", flush=True)
+        sleep(0.005)
+
+    sleep(7)
+    return
+    
+
