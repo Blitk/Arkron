@@ -1,6 +1,78 @@
 from time import sleep
 from pyautogui import press, hotkey
 import sys
+from jsonpickle import decode, encode
+from os import chdir, path, getcwd
+
+
+class Hero:
+    Vida = 100
+    Mana= 100
+    Stamina = 100
+
+    def __init__(self):
+        self.Nome = ""
+        self.Raça = ""
+        self.Classe = ""
+        self.magia = 0
+        self.força = 0
+        self.inteligência = 0
+        self.audacia = 0
+        self.bravura = 5
+        self.Arkron = False
+        self.Arma = ""
+        self.Dano = 0
+        self.Criado = False
+
+        #Armamentos
+    def atualizar_armamento(self):
+        if self.Classe == "Arqueiro":
+            self.Arma = "Arco Leve"
+            self.Dano = 10
+
+        elif self.Classe == "Guerreiro":
+            self.Arma = "Machado Leve"
+            self.Dano = 10
+
+        elif self.Classe == "Mago":
+            self.Arma = "Cajado de Chamas"
+            self.Dano = 10
+
+        elif self.Classe == "Assassino":
+            self.Arma = "Punhal Serrado"
+            self.Dano = 10
+
+    def atualizar_atributos(self):
+        if self.Classe == "Arqueiro":
+            self.inteligência += 20
+
+        elif self.Classe == "Guerreiro":
+            self.força += 20
+
+        elif self.Classe == "Mago":
+            self.magia += 20
+
+        elif self.Classe == "Assassino":
+            self.audacia += 20
+
+        if self.Raça == "Elfo":
+            self.inteligência += 20
+
+        elif self.Raça == "Orc":
+            self.força += 20
+
+        elif self.Raça == "Humano":
+            self.audacia += 20
+
+        elif self.Raça == "Draconiano":
+            self.magia += 20
+
+        elif self.Raça == "Espectro":
+            self.magia += 10
+            self.inteligência += 10
+
+
+
 
 
 def iniciar():
@@ -335,3 +407,70 @@ def fim_parte1():
     return
     
 
+def iniciar_personagem():
+    chdir("..")
+    chdir("Saves")
+    if path.exists(path.join(getcwd(), "hero.json")):
+        ask = input("\033[33mExiste uma Save do personagem, deseja continuar ou recomeçar? ").upper()
+        if ask == "CONTINUAR":
+            with open("hero.json", "r") as arquivo:
+                cont = arquivo.read()
+                objeto = decode(cont)
+                chdir("..")
+                chdir("Codes")
+                return objeto
+        else: 
+            objeto = Hero()
+            chdir("..")
+            chdir("Codes")
+            return objeto
+    else:
+        objeto = Hero()
+        chdir("..")
+        chdir("Codes")
+        return objeto
+
+
+
+def salvar_hero(objeto):
+    chdir("..")
+    chdir("Saves")
+    with open("hero.json", "w") as arquivo:
+        cont = encode(objeto)
+        arquivo.write(cont)
+    chdir("..")
+    chdir("Codes")
+
+
+def iniciar_historia():
+    chdir("..")
+    chdir("Saves")
+    if path.exists(path.join(getcwd(), "save_historia.json")):
+        ask = input("\033[33mDeseja continuar a história de onde parou ou recomeçar? ").capitalize()
+        if ask == "Continuar":
+            with open("save_historia.json", "r") as arquivo:
+                cont = arquivo.read()
+                lista = decode(cont)
+                chdir("..")
+                chdir("Codes")
+                return lista
+        else:
+            chdir("..")
+            chdir("Codes")
+            lista = []
+            return lista
+    else:
+        lista = []
+        chdir("..")
+        chdir("Codes")
+        return lista
+
+
+def salvar_historia(objeto):
+    chdir("..")
+    chdir("Saves")
+    with open("save_historia.json", "w") as arquivo:
+        cont = encode(objeto)
+        arquivo.write(cont)
+    chdir("..")
+    chdir("Codes")
